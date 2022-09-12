@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "target": "es2021",
+    "module": "CommonJS",
+    "allowJs": true,
+    "rootDir": "./src",
+    "outDir": "./dist",
+		"skipLibCheck": true,
+    "strictNullChecks": false
+  }
+}
